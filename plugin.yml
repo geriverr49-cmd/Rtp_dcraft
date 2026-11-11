@@ -1,0 +1,11 @@
+name: DcraftRTP
+version: 1.0.0
+main: com.example.rtp.DcraftRTP
+api-version: 1.21
+author: Sen
+description: Premium Rastgele Isinlanma Sistemi
+
+commands:
+  rtp:
+    description: Rastgele isinlanma menusunu acar
+    aliases: [wild, rastgele]
